@@ -106,7 +106,7 @@ The project follows a structured end-to-end analytics workflow:
 
 I'm interested in opportunities and collaborations in **Data Analytics, Business Intelligence, SQL, and Power BI**.
 
-- 💼 **LinkedIn:** [Connect with me](www.linkedin.com/in/mohit-mehta-726179307)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mohit-mehta-726179307/)
 - 💻 **GitHub:** [View my profile](https://github.com/Dynamatic01)
 - 📧 **Email:** [Contact me](mohitmehta514@gmil.com)
 
