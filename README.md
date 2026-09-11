@@ -14,7 +14,11 @@ The project demonstrates a complete analytics workflow using **Excel, SQL Server
 
 <!-- Add your dashboard screenshot here -->
 
-![Power BI Dashboard](images/dashboard-preview.png)
+![Power BI Dashboard](EXECUTIVE-OVERVIEW.png)
+![Power BI Dashboard](CITY-COMPARISON.png)
+![Power BI Dashboard](POLLUTION-WEATHER.png)
+![Power BI Dashboard](SEASON-&-EVENTS.png)
+
 
 ---
 
